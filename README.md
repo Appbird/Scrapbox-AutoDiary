@@ -1,5 +1,5 @@
 詳しい進捗は以下に記述してあります。
-- [https://scrapbox.io/appbirdNotebook-public/Scrapbox-AutoDiary]
+- https://scrapbox.io/appbirdNotebook-public/Scrapbox-AutoDiary
 
 # 状況
 - 一日の終わりに日誌をどばーっと書くようになってしまっている。
