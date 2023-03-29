@@ -1,0 +1,11 @@
+{
+
+    "manifest_version": 3,
+    "name": "Scrapbox-AutoDiary",
+    "version": "1.0.0",
+    "permissions": ["activeTab", "scripting"],
+    "description": "30分放置した際に、日誌を開きます。",
+    "background": {
+        "survice_worker": "background.js"
+    }
+}
